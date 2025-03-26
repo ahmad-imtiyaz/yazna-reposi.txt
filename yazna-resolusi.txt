@@ -1,0 +1,4 @@
+perkenalkan nama saya yazna
+"Tahun ini, saya berkomitmen untuk meningkatkan keterampilan pemrograman saya dengan mempelajari GitHub, Git, JavaScript, dan Python.
+Saya akan konsisten berlatih, membangun proyek, serta berkontribusi pada komunitas pengembang agar semakin mahir dalam teknologi ini.
+Langkah kecil setiap hari akan membawa saya lebih dekat ke tujuan besar!"
